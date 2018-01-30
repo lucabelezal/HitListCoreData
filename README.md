@@ -1,4 +1,4 @@
-# HitList Core Data
+# HitList
 
 <p>
   Persistência de dados usando Core Data
