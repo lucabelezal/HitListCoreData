@@ -1,0 +1,1 @@
+# HitList Core Data
